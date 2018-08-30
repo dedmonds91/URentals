@@ -1,0 +1,28 @@
+/* CSS Document*/ 
+
+body {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  background-color: #545454;
+  background-image: url(RedwoodRentalsb3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+input {
+  border-radius: 1000px;
+}
+button {
+  background-color: #CCC1A3;
+  border-radius: 5000px;
+  border-color: #CCC1A3
+}
+img {
+  align-content: center;
+  height: 200px;
+  width: 820px;
+  image-rendering: auto;
+}
+input {
+  padding: 5px;
+}
